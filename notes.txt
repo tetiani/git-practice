@@ -5,3 +5,4 @@ from experiment
 line from master
 line from left
 after push
+from clone
